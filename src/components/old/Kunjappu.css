@@ -1,0 +1,25 @@
+.group {
+  border: 12.78px solid;
+  border-color: #d7ebee;
+  border-radius: 156.5px;
+  height: 313px;
+  position: relative;
+  width: 313px;
+}
+
+.group .smiley-boy-holding {
+  height: 271px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 271px;
+}
+
+.group.variant-2 {
+  background-image: url(./image.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  left: -13px;
+  top: -13px;
+}
